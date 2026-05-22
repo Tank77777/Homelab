@@ -1,4 +1,4 @@
-"## homelab
+## homelab
 A public portfolio show caseing my home lab infrastructure, projects, and learning journey — built as part of a structured 90-day plan to land a DevSecOps or Cloud Engineering role.
 This repo is the front door. It documents how everything is set up, how components connect, what technology decisions were made and why. Individual project repos branch off from here, covering everything from infrastructure-as-code to security monitoring. The work here is to document my own learning both complete/polished and still in progress.
 
@@ -64,4 +64,4 @@ I document progress and reflections weekly in journal/ — what I built, what br
 [ LinkedIn URL ]
 
 [ Blog or portfolio URL if you have one ]
-" 
+ 

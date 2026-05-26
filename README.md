@@ -44,6 +44,7 @@ I'm a practical, hands-on learner who prefers to build and experiment to underst
 | [bitcoin-node](#) | Self-hosted Bitcoin node via Umbrel OS on Dell Tiny PC — running Bitcoin Knots with home miners | Running |
 | [selfmade-nas](#) | NAS build using a Dell Tiny PC — mass storage, Home Assistant, expandable housing | Planned |
 | [media-center](#) | Self-hosted media server on the NAS — Plex or Jellyfin with music and film libraries | Planned |
+| [pi-hole](#) | Self hosted Raspberry Pi 3 A running Pi-Hole to filter out unwanted ads and DNS on home network | Running |
 
 > Replace each `#` with the actual repo URL once created.
 
